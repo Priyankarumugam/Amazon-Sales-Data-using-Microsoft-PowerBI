@@ -18,5 +18,5 @@ The goal of this dashboard is to analyze sales data to help stakeholders make da
 - **Charts:** Monthly Sales Trend, Profit by Customer.
 
 ## 📈 Dashboard Preview
-Dashboard Page 1
-Dashboard page 2
+Dashboard Page 1-(https://github.com/Priyankarumugam/Amazon-Sales-Data-using-Microsoft-PowerBI/blob/main/Snap%20A.png)
+Dashboard page 2-
